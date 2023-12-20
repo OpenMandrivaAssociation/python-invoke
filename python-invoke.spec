@@ -1,6 +1,6 @@
 Name:		python-invoke
-Version:	1.7.3
-Release:	2
+Version:	2.2.0
+Release:	1
 Source0:	https://files.pythonhosted.org/packages/source/i/invoke/invoke-%{version}.tar.gz
 Summary:	Pythonic task execution
 URL:		https://pypi.org/project/invoke/
