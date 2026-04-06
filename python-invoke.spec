@@ -1,7 +1,7 @@
 %define module invoke
 
 Name:		python-invoke
-Version:	2.2.1
+Version:	3.0.0
 Release:	1
 Summary:	Pythonic task execution
 License:	BSD-2-Clause
